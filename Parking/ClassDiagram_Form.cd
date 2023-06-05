@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parking.EditInformation_Form">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8SQAAAACASAgABHQAACACCByIAAYAAAAFGAAAAEAAQA=</HashCode>
+      <FileName>EditInformation_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking.EditSizeParking_Form">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgABAQAACACAACAAAYAAQCFGAAAAAAAQA=</HashCode>
+      <FileName>EditSizeParking_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking.Login_Form">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABAAAACACABCIAA4AAAAFHAAAAAAAAA=</HashCode>
+      <FileName>Login_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking.Menu_Form">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQQAAACACAAgABAAAChCAACAMA5CAAABHAOACBAAQA=</HashCode>
+      <FileName>Menu_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking.Parkovka_Form">
+    <Position X="12.75" Y="1.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACZAAAACGCAAABFQAQCACAIDAMA9AQCYFHQOAgEIAQE=</HashCode>
+      <FileName>Parkovka_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking.UserInformation_Form">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAACACAAABBAgACACAACAAAYAAAAFGAAAAAAAQA=</HashCode>
+      <FileName>UserInformation_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
